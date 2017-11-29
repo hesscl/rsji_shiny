@@ -7,4 +7,4 @@ This was a proof of concept I created for the Seattle Office for Civil Rights' C
 ## Link to shinyapps.io
 
 This shows the app in action:
-https://hesscl-uw.shinyapps.io/rsji/[https://hesscl-uw.shinyapps.io/rsji/]
+https://hesscl-uw.shinyapps.io/rsji/
